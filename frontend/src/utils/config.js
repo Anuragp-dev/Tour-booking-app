@@ -1,4 +1,3 @@
-export const BASE_URL = " http://localhost:4000";
+export const BASE_URL = "https://tour-booking-server-rgel.onrender.com";
 
 
-//https://tour-booking-server-rgel.onrender.com
