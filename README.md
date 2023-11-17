@@ -4,10 +4,10 @@
 .server side mongodb</br>
 .rest api </br>
 # Cloning the respository
- # `git clone github.com/Anuragp212/Tour-booking-app.git`
+ ### `git clone github.com/Anuragp212/Tour-booking-app.git`
 
 # install packages 
-# `npm install`
+### `npm install`
 
 # start app
 ### `npm start`
