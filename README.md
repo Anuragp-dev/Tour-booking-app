@@ -10,6 +10,6 @@ git clone github.com/Anuragp212/Tour-booking-app.git
  npm install
 
 # start app
-npm start
+### `npm start`
 
 
