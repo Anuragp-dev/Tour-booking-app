@@ -4,7 +4,7 @@ import jwt from "jsonwebtoken";
 
 
 
-
+// register 
 export const register = async(req,res) => {
 
 try {
