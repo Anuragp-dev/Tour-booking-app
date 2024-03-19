@@ -29,7 +29,7 @@ try {
    }
 };
 
-
+// login 
 export const login = async(req,res) => {
 
     const email = req.body.email
