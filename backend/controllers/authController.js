@@ -29,7 +29,7 @@ try {
    }
 };
 
-// login 
+// login of user
 export const login = async(req,res) => {
 
     const email = req.body.email
