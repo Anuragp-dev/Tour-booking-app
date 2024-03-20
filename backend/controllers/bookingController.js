@@ -36,7 +36,7 @@ export const getBooking = async(req ,res ) => {
 
 
 
-
+// get all booking 
 export const getAllBooking = async(req ,res ) => {
     const id = req.params.id
 
