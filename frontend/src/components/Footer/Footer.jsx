@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 import logo from '../../assets/images/logo.png';
 
 
-
+// add quick links
 const quick__links = [
   {
     path: "/home",
