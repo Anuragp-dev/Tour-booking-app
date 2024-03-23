@@ -40,7 +40,7 @@ const quick__links2 = [
 
 
 
-
+// footer 
 
 const Footer = () => {
 
