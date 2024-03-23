@@ -21,6 +21,8 @@ const quick__links = [
   }
 ]
 
+
+// qucik link 2 
 const quick__links2 = [
   {
     path: "/gallery",
