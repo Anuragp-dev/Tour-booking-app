@@ -40,7 +40,7 @@ export const UpdateUser = async (req, res) => {
 
 
 
-// delete user
+// delete user controller 
 export const deleteUser = async (req, res) => {
 
     const id = req.params.id
