@@ -136,7 +136,7 @@ try {
 };
 
 
-
+// get tour count 
 export const getTourCount = async(req,res) => {
     try {
         const tourCount = await Tour.estimatedDocumentCount();
