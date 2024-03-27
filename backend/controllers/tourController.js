@@ -75,7 +75,7 @@ export const getSingleTour = async (req, res) => {
 
 
 
-
+// get all tours 
 export const getAllTour = async (req, res) => {
 
         // pagination
