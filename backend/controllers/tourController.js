@@ -56,7 +56,7 @@ export const deleteTour = async (req, res) => {
 };
 
 
-
+// get single tour 
 export const getSingleTour = async (req, res) => {
 
 
