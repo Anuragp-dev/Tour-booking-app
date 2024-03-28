@@ -13,6 +13,7 @@ router.delete('/:id', verifyAdmin,  deleteTour);
 
 router.put('/:id', verifyAdmin,  UpdateTour);
 
+// get all torus
 router.get('/', getAllTour);
 
 router.get('/:id', getSingleTour);
