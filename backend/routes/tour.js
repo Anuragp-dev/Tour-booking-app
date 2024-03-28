@@ -6,7 +6,7 @@ import { verifyAdmin, verifyUser } from '../Utils/verifyToken.js';
 
 const router = express.Router();
 
-
+// routes 
 router.post('/', verifyAdmin,  createTour);
 
 router.delete('/:id', verifyAdmin,  deleteTour);
