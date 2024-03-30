@@ -10,7 +10,7 @@ import logo from '../../assets/images/logo.png';
 
 
 
-
+// nav links 
 const nav__links = [
   {
     path: "/home",
