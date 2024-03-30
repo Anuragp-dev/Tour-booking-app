@@ -39,6 +39,7 @@ const Header = () => {
     dispatch({type: 'LOGOUT'});
     navigate('/')
   }
+  // toggle menu 
 
   const stickyHeaderFunc = () => {
     window.addEventListener("scroll",() => {
