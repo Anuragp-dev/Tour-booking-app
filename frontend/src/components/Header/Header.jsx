@@ -26,7 +26,7 @@ const nav__links = [
   }
 ]
 
-
+// header 
 const Header = () => {
 
   const headerRef = useRef(null);
