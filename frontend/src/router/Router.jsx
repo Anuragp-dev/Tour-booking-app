@@ -8,6 +8,7 @@ import Register from '../pages/Register';
 import Login from '../pages/Login';
 import ThankYou from '../pages/ThankYou';
 
+// routes
 const Router = () => {
   return (
    <Routes basename="/home">
