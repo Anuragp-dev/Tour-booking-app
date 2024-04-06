@@ -8,6 +8,7 @@ const initial_state = {
     error:null
 };
 
+// authcontext  
 export const AuthContext = createContext(initial_state);
 
 
