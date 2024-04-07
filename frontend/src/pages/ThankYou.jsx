@@ -8,7 +8,7 @@ import "../style/thank-you.css"
 
 
 
-
+// thank you 
 const ThankYou = () => {
   return <section>
     <Container>
