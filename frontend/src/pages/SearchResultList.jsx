@@ -12,7 +12,7 @@ const SearchResultList = () => {
   const [data] = useState(location.state);
 
   
-
+// search
   return (
     <>
       <CommonSection title ={"Tour Search Result"}/>
