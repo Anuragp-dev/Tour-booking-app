@@ -16,7 +16,7 @@ import Newsletter from '../shared/Newsletter';
 
 
 
-//home
+//home component 
 
 const Home = () => {
   return <>
