@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 
-// useFech 
+// useFech hook 
 
 const useFetch = url => {
 
