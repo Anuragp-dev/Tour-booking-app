@@ -4,7 +4,7 @@ import jwt from "jsonwebtoken";
 
 
 
-// register 
+// register controller 
 export const register = async(req,res) => {
 
 try {
