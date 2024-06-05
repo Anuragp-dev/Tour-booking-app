@@ -29,7 +29,7 @@ try {
    }
 };
 
-// login of user
+// login of user controller
 export const login = async(req,res) => {
 
     const email = req.body.email
