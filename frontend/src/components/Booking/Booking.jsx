@@ -8,7 +8,7 @@ import { BASE_URL } from '../../utils/config';
 
 
 
-
+// booking rating
 
 const Booking = ({ tour, avgRating }) => {
 
