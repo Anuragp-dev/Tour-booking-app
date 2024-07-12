@@ -1,5 +1,7 @@
 import mongoose from "mongoose";
 
+
+// tour schema 
 const tourSchema = new mongoose.Schema(
   {
     title: {
