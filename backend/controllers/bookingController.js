@@ -1,6 +1,6 @@
 import Booking from "../models/Booking.js";
 
-// booking controllers
+// booking controller
 
 
 // create booking page of tour app controller
