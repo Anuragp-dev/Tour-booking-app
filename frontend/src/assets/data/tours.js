@@ -11,7 +11,7 @@ const tours = [
   {
     id: "01",  
     title: "Westminister Bridge",
-    city: "London",
+    city: "London", 
     distance: 300,
     address:"SomeWhere",
     price: 99,
