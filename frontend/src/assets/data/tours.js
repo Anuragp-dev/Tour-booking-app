@@ -8,7 +8,7 @@ import tourImg07 from "../images/tour-img07.jpg";
 // images of tours
 
 const tours = [
-  {
+  { 
     id: "01",  
     title: "Westminister Bridge",
     city: "London", 
