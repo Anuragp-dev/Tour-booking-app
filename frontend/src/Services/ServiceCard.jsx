@@ -10,7 +10,7 @@ const ServiceCard = ({item}) => {
      </div>
      <h5>{title}</h5>
      <p>{desc}</p>
-    </div>
+    </div> 
   )
 }
 
