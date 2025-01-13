@@ -3,7 +3,7 @@ import jwt  from "jsonwebtoken";
 
 // store the token in cookies 
 const verifyToken = (req, res, next) => {
-    const token = req.cookies.accessToken
+    const token = req.cookies.accessToken 
 
     if(!token) {
         return res.status(401).json({success:false, message: "You are not authorize"});
