@@ -1,4 +1,4 @@
-import jwt  from "jsonwebtoken";
+ import jwt  from "jsonwebtoken";
 
 
 // store the token in cookies 
