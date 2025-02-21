@@ -1,4 +1,4 @@
-import Booking from "../models/Booking.js";
+import Booking from "../models/Booking.js"; 
 
 // booking controller
 
