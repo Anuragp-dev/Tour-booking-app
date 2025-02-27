@@ -2,7 +2,7 @@ import Booking from "../models/Booking.js";
 
 // booking controller
 
-  
+   
 // create booking page of tour app controller
 export const createBooking = async (req, res) => { 
 
