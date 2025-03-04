@@ -7,7 +7,7 @@ const bookingSchema = new mongoose.Schema(
    userId: {
       type:String
     },
-    userEmail: {
+    userEmail: { 
       type: String,
     },
     tourName: {
