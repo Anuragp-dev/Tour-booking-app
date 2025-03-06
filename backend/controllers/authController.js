@@ -5,7 +5,7 @@ import jwt from "jsonwebtoken";
 
 
 // register controllers   
-export const register = async(req,res) => {
+export const register = async(req,res) => { 
 
 try {
     // hashing password 
