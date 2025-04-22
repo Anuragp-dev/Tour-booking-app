@@ -7,7 +7,7 @@
  ### `git clone github.com/Anuragp212/Tour-booking-app.git` 
 
 # install packages  
-### `npm install`  
+### `npm install`   
   
 # start app
 ### `npm start` 
