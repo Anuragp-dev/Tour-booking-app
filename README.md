@@ -1,4 +1,4 @@
- ## Tour-booking-app || React jsx Bootstrap5
+  ## Tour-booking-app || React jsx Bootstrap5
 #. frondend reactjs, bootstrap, css3 </br>
 #. Backend nodejs expressjs </br>  
 #. server side mongodb</br>
