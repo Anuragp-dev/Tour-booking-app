@@ -10,7 +10,7 @@ export const register = async(req,res) => {
 try {
     // hashing password  
  
-    const salt = bcrypt.genSaltSync(10)
+    const salt = bcrypt.genSaltSync(10) 
     const hash = bcrypt.hashSync(req.body.password, salt) 
 
     const newUser = new User({
