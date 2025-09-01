@@ -9,7 +9,7 @@
 # install packages     
 ### `npm install`    
     
-# start app 
+# start app  
 ### `npm start`  
    
   
